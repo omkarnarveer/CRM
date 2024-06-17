@@ -9,6 +9,8 @@ public class CustomerRelationshipManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerRelationshipManagementApplication.class, args);
 		System.out.println("CRM Project is Running");
+		System.out.println("Hello Nikita");
+		
 	}
 
 }
